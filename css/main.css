@@ -33,8 +33,6 @@ p {
   line-height: 1.5em;
 }
 
-
-
 .back-to-top,
 .footer-name {
   font-size: 1em;
@@ -143,6 +141,10 @@ p {
 
 .bottom-nav {
   display: none;
+}
+
+.loud {
+  color: #00ff7e;
 }
 
 @media (min-width: 768px) {
