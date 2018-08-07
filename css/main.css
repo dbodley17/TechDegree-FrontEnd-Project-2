@@ -94,6 +94,23 @@ p {
   padding: 1em 1.5em;
 }
 
+.skills {
+  background-color: #9e9e9e;
+
+}
+
+.skills h2 {
+  color: white;
+}
+
+.skills-list {
+
+}
+
+.skills-list li {
+  color:white;
+}
+
 .footer-name {
   float: left;
 }
