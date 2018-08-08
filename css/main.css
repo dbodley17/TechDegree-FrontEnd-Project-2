@@ -104,8 +104,9 @@ p {
 }
 
 .skills-list {
-  width: 50%;
+  width: 45%;
   margin: 0 auto;
+  max-width: 350px;
 }
 
 .skills-list li {
@@ -238,8 +239,8 @@ p {
     width: 100%;
     margin: 0 auto;
   }
-  
-  a::hover {
+
+  a:hover {
     color: #00ff7e;
   }
 
