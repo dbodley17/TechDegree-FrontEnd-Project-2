@@ -188,6 +188,7 @@ p {
   .portfolio div {
     max-width: 48%;
     display: inline-block;
+    vertical-align: top;
   }
 
   .portfolio h2 {
